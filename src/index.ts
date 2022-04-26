@@ -15,7 +15,7 @@ function multiplicar(numero: number, otroNumero?: number, base: number = 2): num
 
 const resultadoSuma: number = sumar(10,20);
 
-const resultadoResta: number = restar(20,10);
+const resultadoResta: number = restar(10,10);
 
 const resultadoMultiplicacion = multiplicar(5, 0, 10);
 
